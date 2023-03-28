@@ -4,17 +4,51 @@
 
 layout: splash
 these_three_trees:
-  - image_path: /assets/images/banner_650w_datacenter_all-in-one-containerized-datacenter_en.jpg
-    title: "+Electricty, +5G"
+  - image_path: /assets/images/mobile2.png
+    image_caption: "[Mobile Solar with 5G](http://ecoxchange.co.za/our-solutions.html)"
+    title: "+Electricty, +5G, +Compute"
     excerpt: "
     "
-  - image_path: /assets/images/banner_650w_datacenter_all-in-one-containerized-datacenter_en.jpg
+    url: /e5c
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/palm.png
+    image_caption: "[Amazon Biometric](Amazon-One-Palm-scanner-service-3-768x433.jpg.webp)"
+    url: /thoughtfulBiometrics
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+    title: "Thoughtful Biometrics"
+    excerpt: "
+    "
+  - image_path: /assets/images/Example-Structure.png
+    image_caption: "[Spacemaker.ae Rapidspace](https://youtu.be/VA3TsWKCXDo)"
+    url: /serviceDeliverySupport
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+    title: "Service Delivery Support"
+    excerpt: "
+    "
+these_three_trees2:
+  - image_path: /assets/images/mobile2.png
+    image_caption: "[Mobile Solar with 5G](http://www.google.com)"
+    title: "+Electricty, +5G"
+    excerpt: "
+    Image:
+
+    ![Humanitarian Power](/assets/images/humanitarian-2.jpg)
+    "
+  - image_path: /assets/images/palm.png
+    image_caption: "[EcoExchange Solutions](http://ecoxchange.co.za/our-solutions.html)"
     title: "Safe & Restricted Biometrics"
     excerpt: "
     "
-  - image_path: /assets/images/banner_650w_datacenter_all-in-one-containerized-datacenter_en.jpg
+  - image_path: /assets/images/Example-Structure.png
+    image_caption: "[Spacemaker.ae Rapidspace](https://youtu.be/VA3TsWKCXDo)"
     title: "Administration Structure"
     excerpt: "
+
+    ![Modular Space Video](/assets/images/ModularSpace.png)
     "
 
 feature_row:
@@ -116,6 +150,8 @@ point of administration for a community civil services.
 
 {% include feature_row id="these_three_trees" %}
 
+# Digital Transformation Engine
+
 Each Mandiakui Station
  * supports functional biometric identity for up to 1 million people
    without introducing ABIS overhead or vendor-bindings of any sort.
@@ -183,5 +219,6 @@ digital transformation and strengthening communities in challenging
 multistakeholder environments such as remote borders & ports, municipalities,
 and small island developing states.
 
+# Mandiakui Digital Transformation Timeline
 
 {% include feature_row %}
