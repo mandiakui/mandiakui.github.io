@@ -154,21 +154,28 @@ point of administration for a community civil services.
 
 Each Mandiakui Station
  * supports functional biometric identity for up to 1 million people
-   without introducing ABIS overhead or vendor-bindings of any sort.
- * defines a service-driven digital sovereignty (i.e. patient/doctor,
-   SSCBT-professional, etc.) using
-   the e-Estonian open-source X-Road system
+   without introducing either a central database or a perpetual vendor.
+ * defines a service-driven digital sovereignty which governs data
+   and credential exchange between regulated parties - such as
+     * personal health records and doctor/patient digital rights
+     * labor motility within the community, especially if it crosses national
+       boundaries
+     * trade facilitation and tax collection, including payment integration
+     * health and education services and facilities
+     * government administration for the community
+     * biometric voter registration and verifiable elections
+   [details of how this works](/underTheHood)
  * enhances and extends a managed 5G bubble serving the community
- * can provide tamper-proof biometric voter registration and election
-   support services
- * improves community compute power, data resilience, and data depth
- * establishes clear public and private data spaces, governed by formal
-   digital rights preserving, procedurally managed, history preserving
-   automated legal engine.
+ * improves community compute power, data resilience, and data depth, with
+   each node adding to the community compute pool
+ * establishes legally well defined and cryptographically protected
+   public and private data spaces suitable for sharing sensitive data
+   such as doctor/patient private discussions.
  * supports best-practice data sharing, privacy, and personal rights
-   protection using interoperable verifiable credentials
- * generates more than the electricity to power a data-processing 5G
-   extender, as well as an associated service structure.
+   protection using interoperable verifiable credentials and pursuing
+   the MyData principles.
+ * generates excess electricity beyond that required to power the required
+   compute, 5G, and civil service structure.
    Service Examples Include:
      * small school
      * operating theater or small clinic
