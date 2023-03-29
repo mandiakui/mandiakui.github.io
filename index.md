@@ -147,23 +147,6 @@ global political instability.
 
    [details of how this works](/underTheHood)
 
- * enhances and extends a managed 5G bubble serving the community
- * improves community compute power, data resilience, and data depth, with
-   each node adding to the community 5G accessible digital economy
- * establishes legally well defined and cryptographically protected
-   public and private data spaces suitable for managing sensitive data
-   such as doctor/patient private discussions or national security records
- * supports best-practice data sharing, privacy, and personal rights
-   protection using interoperable verifiable credentials and adhering to
-   strong EU/MyData principles.
- * generates excess electricity beyond that can help:
-     * small schools
-     * operating theaters or small clinics
-     * border management facilities
-     * pandemic/epidemic monitoring and response systems
-     * water and other resource sustainability efforts
-     * incremental national migration to e-Government
-
 
 ## A Mandiakui Microgrid  
 
@@ -184,7 +167,8 @@ global political instability.
  * *engages* nearby communities, national digital systems, as well
    as civil society, regional and international organizations.  For example,
    the UNIOM MIDAS adapter and the UNHCR PRIMES adapter ensure the community
-   is prepared for engagement.
+   is prepared for engagement - for example, when a disaster strikes nearby
+   and your Mandiakui Microgrid helps rapidly absorb the social pressures.
 
  * *enhances* the human condition where best-practices
    and civil society are already part of the legal firmament
@@ -194,8 +178,8 @@ global political instability.
  * *protects* border regions by establishing _critical health parity_
    on all sides of a border, transparently sharing health data in accordance
    with leading-practices in personal data management, privacy, and resistance
-   to misuse, while enabling rapid integration of pandemic and epidemic
-   management.
+   to misuse, while enabling rapid integration with
+   pandemic and epidemic management software.
 
  * *stabilizes* border regions by providing a point of mutual interest in the
    event bordering nations engage in conflict.
