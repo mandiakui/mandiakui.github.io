@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: splash
+toc: true
 these_three_trees:
   - image_path: /assets/images/mobile2.png
     image_caption: "[Mobile Solar with 5G](http://ecoxchange.co.za/our-solutions.html)"
