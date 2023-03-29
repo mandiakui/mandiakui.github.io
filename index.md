@@ -87,10 +87,13 @@ feature_row:
 ---
 Mandiakui supports coordinated, rapid deployment
 of combined power generation, 5G, and physical structures supporting
-a community-scale digitally transformed civil service - such as small
-scale cross border community trade facilitation, pandemic rapid response,
-civil registration and vital stastics, education, civil service
-administration, and financial inclusion.
+a community-scale digitally transformed civil service - such as
+small scale cross border community trade facilitation,
+pandemic rapid response,
+civil registration and vital stastic management,
+education,
+civil service administration, and
+financial inclusion.
 
 Each Mandiakui station generates electricity, provides compute,
 includes a 5G signal tower, and provides a physical
@@ -101,17 +104,21 @@ the internationally established e-Estonian X-Road.
 
 Mandiakui's goal is to strengthen healthy communities in
 challenging environments, ensuring that communities can respond
-well to pressures from climate change, pandemics, and
-global political instability.
+vigourously and positively to pressures from climate change,
+pandemics, and global political instability.
 
 {% include feature_row id="these_three_trees" %}
 
 # Digital Transformation Engine
 [Stations](#each-mandiakui-station) | [Grids](#a-mandiakui-microgrid) | [Timeline](/digital-transformation-timeline)
 ## Each Mandiakui Station
- * *provides* __functional__ biometric identity for up to 500,000 people
-   without introducing either a central database or a perpetual vendor.
- * *defines* [a service-driven digital sovereignty](/digitalSovereignty)
+ * *provides*
+   [__functional__ biometric identity](/glossary#functional-biometric-identity)
+   for up to 500,000 people while avoiding both
+     * a central database (strong cybersecurity and abuse risks)
+     * a perpetual vendor (diminishment of national sovereignty)
+ * *defines* a service-driven, self-powering,
+   [digital sovereignty](/digitalSovereignty)
    which regulates data
    and credential exchange between well known parties - for example:
      * personal health records and doctor/patient digital relationships
@@ -124,7 +131,6 @@ global political instability.
      * biometric voter registration and verifiable elections
 
    [details of how this works](/underTheHood)
-
 
 ## A Mandiakui Microgrid  
 
