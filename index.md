@@ -129,7 +129,7 @@ global political instability.
 {% include feature_row id="these_three_trees" %}
 
 # Digital Transformation Engine
-
+[Stations](#each-mandiakui-station) | [Grids](#a-mandiakui-microgrid) | [Timeline](/digital-transformation-timeline)
 ## Each Mandiakui Station
  * supports functional biometric identity for up to 1 million people
    without introducing either a central database or a perpetual vendor.
@@ -189,6 +189,6 @@ digital transformation and strengthening communities in challenging
 multistakeholder environments such as remote borders & ports, municipalities,
 and small island developing states.
 
-# Mandiakui Digital Transformation Timeline
+# Digital Transformation Timeline
 
 {% include feature_row %}
