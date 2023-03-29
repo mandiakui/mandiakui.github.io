@@ -30,31 +30,10 @@ these_three_trees:
     title: "Service Delivery Support"
     excerpt: "
     "
-these_three_trees2:
-  - image_path: /assets/images/mobile2.png
-    image_caption: "[Mobile Solar with 5G](http://www.google.com)"
-    title: "+Electricty, +5G"
-    excerpt: "
-    Image:
-
-    ![Humanitarian Power](/assets/images/humanitarian-2.jpg)
-    "
-  - image_path: /assets/images/palm.png
-    image_caption: "[EcoExchange Solutions](http://ecoxchange.co.za/our-solutions.html)"
-    title: "Safe & Restricted Biometrics"
-    excerpt: "
-    "
-  - image_path: /assets/images/Example-Structure.png
-    image_caption: "[Spacemaker.ae Rapidspace](https://youtu.be/VA3TsWKCXDo)"
-    title: "Administration Structure"
-    excerpt: "
-
-    ![Modular Space Video](/assets/images/ModularSpace.png)
-    "
 
 feature_row:
   - image_path: /assets/images/banner_650w_datacenter_all-in-one-containerized-datacenter_en.jpg
-    alt: "Containerized Data Center"
+    alt: "Containerized Delivery"
     title: "Rapid Deployment"
     excerpt: "Data Centers, Green Power Generation, Physical Security and Supporting Structures delivered in a convoy of 20' shipping containers.
     Deployed on our *Zero to Hero* timeline:
@@ -68,8 +47,8 @@ feature_row:
 
     Containerized data centers combined with green power generation establish
     an immediate, local, highly secure, non-consumer 5G network:
+    ![Zella Maz]()
 
-    ![Zella Maz](/assets/images/ZellaMaxTower.jpg)
     "
     url: /rapid-deployment
     btn_label: "Read More"
@@ -109,10 +88,9 @@ feature_row:
 Mandiakui supports coordinated, rapid deployment
 of combined power generation, 5G, and physical structures supporting
 a community-scale digitally transformed civil service - such as small
-scale cross border community trade, pandemic rapid response,
+scale cross border community trade facilitation, pandemic rapid response,
 civil registration and vital stastics, education, civil service
 administration, and financial inclusion.
-
 
 Each Mandiakui station generates electricity, provides compute,
 includes a 5G signal tower, and provides a physical
@@ -131,9 +109,9 @@ global political instability.
 # Digital Transformation Engine
 [Stations](#each-mandiakui-station) | [Grids](#a-mandiakui-microgrid) | [Timeline](/digital-transformation-timeline)
 ## Each Mandiakui Station
- * supports functional biometric identity for up to 1 million people
+ * *provides* __functional__ biometric identity for up to 500,000 people
    without introducing either a central database or a perpetual vendor.
- * defines [a service-driven digital sovereignty]()
+ * *defines* [a service-driven digital sovereignty](/digitalSovereignty)
    which regulates data
    and credential exchange between well known parties - for example:
      * personal health records and doctor/patient digital relationships
@@ -156,7 +134,6 @@ global political instability.
    financed, legally represented by, and managed by
    a public/private partnership.  This entity is, in effect, digitally
    sovereign - but, in no way, physically sovereign.
-
 
  * *digitally transforms* communities through the deployment of green
    power generation, managed 5G, as-needed functional architecture, and
