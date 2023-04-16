@@ -85,10 +85,14 @@ feature_row:
 #> Then on the way out, slam the door.
 #>                                 -- [Jack Handey](https://motivationalwizard.com/jack-handey-quotes/)
 ---
-Mandiakui supports coordinated, rapid deployment
-of combined power generation, 5G, and physical structures supporting
-a community-scale digitally transformed civil service - such as
-small scale cross border community trade facilitation,
+Mandiakui provides rapid deployment of Mandiakui Microgrids,
+composed of Mandiakui Stations,
+each of which combines
+power generation, 5G service, and physical structures.
+Mandiakui Microgrids deliver community-scale digitally transformed civil
+services -
+
+such as small scale cross border community trade facilitation,
 pandemic rapid response,
 civil registration and vital stastic management,
 education,
@@ -117,7 +121,9 @@ pandemics, and global political instability.
    for up to 500,000 people while avoiding both
      * a central database (strong cybersecurity and abuse risks)
      * a perpetual vendor (diminishment of national sovereignty)
- * *defines* a service-driven, self-powering,
+ * *defines* a
+   [service-driven](/glossary#service-driven),
+   [self-powering](/powerGeneration),
    [digital sovereignty](/digitalSovereignty)
    which regulates data
    and credential exchange between well known parties - for example:
@@ -175,3 +181,4 @@ and small island developing states.
 # Digital Transformation Timeline
 
 {% include feature_row %}
+

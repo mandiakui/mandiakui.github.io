@@ -25,3 +25,12 @@ be an organic and appropriate growth of the service-driven system.
 The boundaries are specified by the number of authorities required to perform
 the minimal functions of the service.  Every time a new dimension of data
 tracking and 
+
+
+
+## Computational Estimate
+
+C rack-units of compute [ concurrency, active memory, power-consumption, dc-only ]
+S rack-units of storage [ raid, redundancy, etc. ]
+M rack-units of admin [ separated systems, HSMs, etc. ]
+
